@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+-🔭 I'm a beginner looking to explore and grow 
+-
+
 <!--
 **shreyannandanwar/shreyannandanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
