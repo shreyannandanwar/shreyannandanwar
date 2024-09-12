@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there 👋<br><br>-🔭 I'm a beginner looking to explore and grow
+Hi there 👋<br><br>-🔭 I'm a Student of technology with a passion for technology and problem-solving. I'm currently learning Computer Science Engg. and working on personal projects to improve my skills. My goal is to become a proficient developer and contribute to meaningful projects that make a positive impact.
+
 
 
 # 💻 Tech Stack:
